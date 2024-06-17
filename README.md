@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SergioOtta67/SergioOtta67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sobre Mi
+# Sobre Mi  👋
 ## Voy a intentar dar una idea de mi desarrollo profesional y técnico realizado a lo largo de mi carrera laboral y profesional
 ### mis inicios son de la época remota década de 1980, donde los recursos tecnológicos eran escasos 
 ### Mis Comienzos en programación:
