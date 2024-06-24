@@ -16,24 +16,13 @@ Here are some ideas to get you started:
 ### Mis inicios son de la época remota década de 1980, donde los recursos tecnológicos eran escasos 
 ### Mis Comienzos en programación:
 ####  Decada de 1980 - Lenguajes
-* Basic
-* Pascal
-* Fortram
-* Cobol
-* PRL
+* Basic, Pascal, Fortram, Cobol, PRL
 #### Decada de 1990 - Lenguajes
-* FOXPRO
-* Visual FOXPRO
-* C++
-* Visual Basic
+* FOXPRO, Visual FOXPRO, C++, Visual Basic
 #### Decada de 2000 - Lenguajes
-* HTML, CSS
-* Javascript
-* PHP
+* HTML, CSS, Javascript, PHP
 #### Decada de 2010 - Actualizaciones
-* CSS
-* Javascript
-* PHP
+* CSS, Javascript. PHP
 
 ### En Cuanto a los trabajos de Programación que he realizado a lo largo de éstos años
 * Sistema Contable
