@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * C++
 * Visual Basic
 #### Decada de 2000 - Lenguajes
-* NTML, CSS
+* HTML, CSS
 * Javascript
 * PHP
 #### Decada de 2010 - Actualizaciones
