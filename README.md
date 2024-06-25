@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * Sistema de Sueldos y Jornales
 * Sistema de Control de Asistencia
 * Sistema de Control de Herramientas
-* Sistema de Ordenes de Copra a Proveedores
+* Sistema de Ordenes de Compra a Proveedores
 * Sistema de Control de Tasas e Impuestos (Ambito Comunas)
 * Sistema de Tasas de Autoliquidacion (Estudios Contables-DReI)
 * Sistema de Autoliquidación Catastral
